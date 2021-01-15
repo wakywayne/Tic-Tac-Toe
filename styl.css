@@ -11,10 +11,20 @@
 }
 .top{
     padding: 3em;
+    width: 302px;
+
     border-bottom: 5px solid rgb(0, 0, 0);
+    clear: both;
+    background-color: yellow;
+    height: 50px;
+    width: 50px;
 }
 .bottom{
-    border-top: 5px solid rgb(0, 0, 0);
+    width: 302px;
+    border-top: 5px solid rgb(7, 0, 0);
+    clear: both;
+    background-color: yellow;
+    height: 112px;
 }
 
 .header{
@@ -23,7 +33,7 @@
     }
 
 .row{
-    width: 302px;
+    width: 400px;
 
 }
 body>div{
@@ -35,4 +45,3 @@ body>div{
     height:10000px;
     width: 10000px;
 }
-
